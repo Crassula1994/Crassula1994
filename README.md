@@ -1,7 +1,13 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=2&height=250&section=header&text=Crassula&desc=고건&fontSize=70&fontAlign=75&fontAlignY=40&descAlign=75&descAlignY=60)
+![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=2&height=250&section=header&text=Crassula&desc=Go%20Geon&animation=blink&fontSize=70&fontAlign=75&fontAlignY=40&descAlign=75&descAlignY=60)
 
-### Hi there 👋
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FCrassula1994%2Fhit-counter&count_bg=%23862633&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=VISIT&edge_flat=false)](https://hits.seeyoufarm.com)
 
+### Hello, World! 👋
+
+## 💡 STACK
+![Python](https://img.shields.io/badge/Python-3776AB.svg?&style=for-the-badge&logo=Python&logoColor=white)
+
+***
 <!--
 **Crassula1994/Crassula1994** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
