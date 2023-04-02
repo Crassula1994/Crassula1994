@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=2&height=250&section=header&text=Crassula&desc=고건&fontSize=70)
+![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=2&height=250&section=header&text=Crassula&desc=고건&fontSize=70&fontAlign=75&fontAlignY=40&descAlign=75&descAlignY=60)
 
 ### Hi there 👋
 
